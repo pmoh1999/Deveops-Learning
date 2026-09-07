@@ -11,7 +11,7 @@ Located a file called "Readme" used cat command to be view whats in thhe file
 ls          # To check for any directory or file
 cat readme  # Read the readme file
 
-# Password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+# Password: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
 ```
 
 ## commands used
