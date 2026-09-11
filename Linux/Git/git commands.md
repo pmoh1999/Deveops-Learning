@@ -1,5 +1,5 @@
-# 🛠️ Git Reference Master Matrix
-> A premium, highly structured index of essential version control workflows.
+# 🛠️ Git Reference sheets
+>Index of essential version control workflows.
 
 ---
 
